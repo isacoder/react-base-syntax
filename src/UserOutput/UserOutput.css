@@ -1,0 +1,9 @@
+.UserOutput {
+  font-family: helvetica, sans-serif;
+  color: #eee;
+  font-size: 20px;
+}
+
+.UserOutput strong {
+  color: #fff;
+}
